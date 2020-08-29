@@ -1,5 +1,5 @@
-#Space Invaders using Python3
+# Space Invaders using Python3
 
 
-## It requires pygame package in order to work.
+### It requires pygame package in order to work.
 
